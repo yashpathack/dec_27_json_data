@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Yash Pathak",
+    "age": "34",
+    "height": "121",
+    "gender": "Male",
+    "hair colors": "Green"
+  },
+
+  {
+    "name": "Yash Second",
+    "age": "342",
+    "height": "121",
+    "gender": "Male",
+    "hair colors": "Green"
+  },
+
+  {
+    "name": "Yash Third",
+    "age": "343",
+    "height": "121",
+    "gender": "Male",
+    "hair colors": "Green"
+  },
+
+  {
+    "name": "Yash Fourth",
+    "age": "344",
+    "height": "121",
+    "gender": "Male",
+    "hair colors": "Green"
+  },
+
+  {
+    "name": "Yash fifth",
+    "age": "345",
+    "height": "121",
+    "gender": "feMale",
+    "hair colors": "Green"
+  }
+]
